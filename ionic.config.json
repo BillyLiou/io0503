@@ -1,0 +1,7 @@
+{
+  "name": "io0503",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
